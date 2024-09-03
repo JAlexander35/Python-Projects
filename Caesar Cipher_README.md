@@ -1,13 +1,13 @@
 Python script implemenets the Caesar cipher, a basic encryption technique.
 
 ## What is Caesar Cipher? 
-
+![pexels-cottonbro-7319085](https://github.com/user-attachments/assets/33511948-0d30-4f85-a8b9-e85208b4a4f7)
 
 The Caesar cipher is a simple substitution cipher named after Julius Caesar, who is believed to have usedit to communicate secretly with his generals. It is one of the oldest and most straightforward encryption techniques.
 In a Caesar cipher, each letter in the plaintext (the message you want to encrypt) is shifted by a fixed number of positions down or up the alphabet. This fixed number is called the key.
 
 # Functions:
-
+![Screenshot 2024-09-02 123114](https://github.com/user-attachments/assets/68cec800-8c04-45d5-8540-4ec3b1367713)
 **caesar_encrypt(message, key):**
 
 Purpose: Encrypts the input message using the Caesar cipher.
