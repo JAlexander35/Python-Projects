@@ -2,6 +2,7 @@ Python script implemenets the Caesar cipher, a basic encryption technique.
 
 ## What is Caesar Cipher? 
 
+
 The Caesar cipher is a simple substitution cipher named after Julius Caesar, who is believed to have usedit to communicate secretly with his generals. It is one of the oldest and most straightforward encryption techniques.
 In a Caesar cipher, each letter in the plaintext (the message you want to encrypt) is shifted by a fixed number of positions down or up the alphabet. This fixed number is called the key.
 
@@ -27,4 +28,4 @@ How it works:
 - The **translate** method is used to apply this translation, yielding the original message.
 
 # Output:
-
+![Screenshot 2024-09-02 123120](https://github.com/user-attachments/assets/992fa725-9a6f-49c6-bc40-74b1e07f660b)
