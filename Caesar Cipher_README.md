@@ -29,3 +29,5 @@ How it works:
 
 # Output:
 ![Screenshot 2024-09-02 123120](https://github.com/user-attachments/assets/992fa725-9a6f-49c6-bc40-74b1e07f660b)
+- Encrypted message: "Khoor, lwv brxu qhljkerukrrg fubswrorjlvw!"
+- Decrypted message: "Hello, its your neighborhood cryptologist!"
